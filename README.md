@@ -301,12 +301,12 @@ elevvo-internship-task02-customer-segmentation/
 │   └── Customer_Segmentation.ipynb
 │
 ├── images/
-│   ├── elbow_method.png
-│   ├── silhouette_score.png
-│   ├── kmeans_clusters.png
-│   ├── dbscan_clusters.png
-│   └── cluster_profile.png
-│
+│   ├── Correlation Heatmap.png
+│   ├── Customer Distribution Across Clusters.png
+│   ├── Customer Segmentation using DBSCAN.png
+│   ├── Customer Segmentation using K-Means.png
+│   └── Elbow Method.png
+│   └── Silhouette Score Analysis.png
 ├── README.md
 ├── requirements.txt
 └── LICENSE
